@@ -1,0 +1,2 @@
+malware123.exe
+testvirus.exe
